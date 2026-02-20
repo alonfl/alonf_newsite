@@ -1,0 +1,2 @@
+Success! Antigravity is now connected to GitHub MCP.
+Test performed at: 2026-02-21T01:42:00Z
